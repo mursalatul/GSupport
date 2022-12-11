@@ -1,0 +1,11 @@
+{
+    "name": "Google Apps",
+    "version": "1.0.0",
+    "description": "all google apps for easy access.",
+    "manifest_version": 3,
+    "author": "Md Mursalatul Islam Pallob",
+    "action":{
+        "default_popup": "main.html",
+        "default_title": "Google Apps"
+    }
+}

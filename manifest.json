@@ -1,6 +1,12 @@
 {
     "name": "Google Apps",
     "version": "1.0.0",
+    "icons":{
+        "16":"/files/images/gicon16.png",
+        "32":"/files/images/gicon32.png",
+        "48":"/files/images/gicon48.png",
+        "128":"/files/images/gicon128.png"
+    },
     "description": "all google apps for easy access.",
     "manifest_version": 3,
     "author": "Md Mursalatul Islam Pallob",
